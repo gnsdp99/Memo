@@ -44,7 +44,7 @@ print(arr)
 - 리스트 인덱스를 빠른 시간안에 가져오기
 >> dict 
 ```python
-arr = [2, 3, 0, 3, 1]
+pos = [2, 3, 0, 3, 1]
 temp = sorted(list(set(pos))) # [0, 1, 2, 3]
 new = {temp[i]: i for i in range(len(temp))} # list.index() 함수는 O(N)만큼 걸리기 때문에 N이 크면 오래 걸린다.
 print(new)
