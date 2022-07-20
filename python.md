@@ -22,3 +22,7 @@ arr.sort(key = lambda x:x[1]) # 알파벳을 기준으로 정렬
 print(arr)
 >> [[30, "a"], [10, "b"], [20, "c"]]
 ```
+- 두 변수의 값 바꾸기
+```python
+a, b = b, a
+```
