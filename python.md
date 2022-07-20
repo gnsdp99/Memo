@@ -40,6 +40,7 @@ arr = list(set(arr)) # set의 인자로 리스트를 주면 리스트의 원소 
 # set의 인자로 문자열을 줄때만 알파벳 단위로 만들어진다.
 print(arr)
 >> ['apple', 'orange']
+```
 - 리스트 인덱스를 빠른 시간안에 가져오기
 >> dict 
 ```python
