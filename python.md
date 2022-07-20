@@ -14,3 +14,11 @@ sorted(<type>, key = <function>, reverse = <bool>)
 or
 ```python
 <type>.sort(key = <function>, reverse = <bool>)
+```
+ex.
+```python
+arr = [[10, "b"], [20, "c"], [30, "a"]]
+arr.sort(key = lambda x:x[1]) # 알파벳을 기준으로 정렬
+print(arr)
+>> [[30, "a"], [10, "b"], [20, "c"]]
+```
