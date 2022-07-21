@@ -50,3 +50,13 @@ new = {temp[i]: i for i in range(len(temp))} # list.index() 함수는 O(N)만큼
 print(new)
 >> {0: 0, 1: 1, 2: 2, 3: 3}
 ```
+- 리스트에서 인덱스와 값을 한 번에 받아오기
+>> enumerate
+```python
+arr = ['dog', 'cat', 'frog']
+for idx, obj in enumerate(arr):
+  print(idx, obj)
+>> 0, 'dog'
+1, 'cat'
+2, 'frog'
+```
