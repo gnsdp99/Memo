@@ -14,3 +14,6 @@ https://jiho-ml.com/weekly-nlp-24/
  - vision 강의     
  https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r     
  [번역](https://kmiiiaa.tistory.com/category/Deep%20Learning%20for%20Computer%20Vision)
+ 
+- 파이썬을 파이썬답게     
+https://yunaaaas.tistory.com/8
