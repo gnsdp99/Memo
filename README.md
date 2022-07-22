@@ -17,3 +17,6 @@ https://jiho-ml.com/weekly-nlp-24/
  
 - 파이썬을 파이썬답게     
 https://yunaaaas.tistory.com/8
+
+- 수학 및 기타 컴퓨터 공부     
+https://losskatsu.github.io/
