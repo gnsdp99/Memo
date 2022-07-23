@@ -60,3 +60,9 @@ for idx, obj in enumerate(arr):
 1, 'cat'
 2, 'frog'
 ```
+- 파일 열기, 닫기
+>> with
+```python
+with open('file.txt') as f: # with문을 나오면 자동으로 파일이 close 된다.
+  print(f.readline())
+```
